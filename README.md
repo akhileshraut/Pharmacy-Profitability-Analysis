@@ -92,7 +92,7 @@ This page provides a high-level view of business performance.
 
 ### Dashboard Preview
 
-![Page 1 Dashboard](Images/Page1.png)
+![Page 1 Dashboard](https://github.com/akhileshraut/Pharmacy-Profitability-Analysis/blob/0b5defb6e13b7c10979cad62eef583638d20f852/Images/page11.PNG)
 
 ---
 
