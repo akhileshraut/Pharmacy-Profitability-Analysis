@@ -111,7 +111,7 @@ This page focuses on location-based and product-level insights.
 
 ### Dashboard Preview
 
-![Page 2 Dashboard](Images/Page2.png)
+![Page 2 Dashboard](https://github.com/akhileshraut/Pharmacy-Profitability-Analysis/blob/4ea0410256d158143a4ea0db3103f045e78cf018/Images/page22.PNG)
 
 ---
 
